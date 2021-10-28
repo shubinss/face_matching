@@ -5,7 +5,7 @@
 pip install -r requirements.txt
 ```
 ## Add new employees to the database 
-Add new images to folder "db", names of new files - ID_FullName_Position.jpeg.
+Add new images to folder "db", names of new files - ID_FullName_Position.jpg.
 ## Running the Flask App (http://localhost:5000/)
 Initialize and run the Flask app on port 5000 of your local machine by running the following command from the root directory of this repo.
 ```bash
