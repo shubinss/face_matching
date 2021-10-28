@@ -29,7 +29,7 @@ Access the http://localhost:5000/ API through Postman by doing the following.
 metod -> POST
 check "Body"
 check "form-data"
-KEY -> source Value-> 0 or 1 (webcam) or file_name.jpeg (image)
+KEY -> source Value-> 0 or 1 (webcam) or file_name.jpg (image)
 KEY -> idx Value-> target ID
 
 ![response](https://github.com/shubinss/face_matching/blob/4f127743f652bcf5899116c1c2b330d85e7373db/postman_access.jpeg)
