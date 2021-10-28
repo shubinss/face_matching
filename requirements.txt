@@ -1,0 +1,6 @@
+tensorflow==2.5.0
+keras==2.4.3
+keras-vggface==0.6
+mtcnn=0.1.1
+Flask
+opencv-python==4.5.4.58
