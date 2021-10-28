@@ -31,5 +31,6 @@ check "Body"
 check "form-data"
 KEY -> source Value-> 0 or 1 (webcam) or file_name.jpeg (image)
 KEY -> idx Value-> target ID
-![response]()
+
+![response](https://github.com/shubinss/face_matching/blob/4f127743f652bcf5899116c1c2b330d85e7373db/postman_access.jpeg)
 
